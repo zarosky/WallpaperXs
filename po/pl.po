@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the custom-phablet-tools.kazord package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: custom-phablet-tools.kazord\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-24 10:28+0000\n"
+"PO-Revision-Date: 2019-09-16 22:01+0000\n"
+"Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
+"Language-Team: Polish <https://translate-ut.org/projects/"
+"custom-phablet-tools/translate/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.8\n"
+
+#: ../qml/Main.qml:60 ../qml/Wallpaper.qml:29 ../qml/Icons.qml:31
+msgid "Wallpapers"
+msgstr "Tapety"
+
+#: ../qml/Main.qml:67 ../qml/Main.qml:291 ../qml/Wallpaper.qml:36
+#: ../qml/Icons.qml:38
+msgid "Icons"
+msgstr "Ikony"
+
+#: ../qml/Main.qml:108 ../qml/Wallpaper.qml:63 ../qml/Icons.qml:65
+msgid "Search"
+msgstr "Szukaj"
+
+#: ../qml/Main.qml:113 ../qml/Wallpaper.qml:68 ../qml/Icons.qml:70
+msgid "Close"
+msgstr "Zamknij"
+
+#: ../qml/Main.qml:266
+msgid "New pack of icons"
+msgstr "Nowa paczka ikon"
+
+#: ../qml/Main.qml:320
+msgid "New wallpapers"
+msgstr "Nowe tapety"
+
+#: ../qml/Main.qml:345
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+#: ../qml/Wallpaper.qml:22 ../qml/Icons.qml:24
+msgid "Home"
+msgstr "Strona startowa"
+
+#: ../qml/Icons.qml:48
+msgid "search"
+msgstr "szukaj"
+
+#: ../qml/IconsView.qml:115 ../qml/WallpaperView.qml:120
+msgid "Wait please"
+msgstr "Proszę czekać"
+
+#: ../qml/IconsView.qml:129
+msgid "Apply Icons"
+msgstr "Zastosuj ikony"
+
+#: ../qml/IconsView.qml:130
+msgid "Do you want to apply the icons now?"
+msgstr "Czy chcesz ustawić te ikony?"
+
+#: ../qml/IconsView.qml:131 ../qml/IconsView.qml:211
+msgid "All currently open apps will be closed."
+msgstr "Wszystkie aktualnie uruchomione aplikacje zostaną zamknięte."
+
+#: ../qml/IconsView.qml:132 ../qml/IconsView.qml:212
+msgid "Save all your work before continuing!"
+msgstr "Zapisz całą swoją pracę przed kontynuowaniem!"
+
+#: ../qml/IconsView.qml:135 ../qml/IconsView.qml:215
+#: ../qml/WallpaperView.qml:138
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../qml/IconsView.qml:140
+msgid "Apply icons"
+msgstr "Zastosuj"
+
+#: ../qml/IconsView.qml:170 ../qml/WallpaperView.qml:175
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: ../qml/IconsView.qml:209
+msgid "Restore Icons"
+msgstr "Przywróć ikony"
+
+#: ../qml/IconsView.qml:210
+msgid "Do you want to restore the icons now?"
+msgstr "Czy chcesz teraz przywrócić ikony?"
+
+#: ../qml/IconsView.qml:220
+msgid "Restore icons"
+msgstr "Przywróć"
+
+#: ../qml/IconsView.qml:253
+msgid "Restore"
+msgstr "Przywróć"
+
+#: ../qml/IconsView.qml:275 ../qml/WallpaperView.qml:195
+msgid "by"
+msgstr "przez"
+
+#: ../qml/IconsView.qml:281 ../qml/WallpaperView.qml:200
+msgid "Item details"
+msgstr "Szczegóły produktu"
+
+#: ../qml/IconsView.qml:285
+msgid "Last update"
+msgstr "Ostatnia aktualizacja"
+
+#: ../qml/IconsView.qml:286 ../qml/WallpaperView.qml:204
+msgid "categories"
+msgstr "kategorie"
+
+#: ../qml/IconsView.qml:287
+msgid "License"
+msgstr "Licencja"
+
+#: ../qml/IconsView.qml:288
+msgid "Website"
+msgstr "Strona"
+
+#: ../qml/WallpaperView.qml:134 ../qml/WallpaperView.qml:143
+msgid "Apply Wallpaper"
+msgstr "Zastosuj tapetę"
+
+#: ../qml/WallpaperView.qml:135
+msgid "Do you want to apply the wallpaper now?"
+msgstr "Czy chcesz ustawić tą tapetę?"
+
+#: ../qml/About.qml:10
+msgid "About"
+msgstr "Informacje"
+
+#: custom-phablet-tools.desktop.in.h:1
+msgid "Custom phablet tools"
+msgstr "Custom phablet tools"

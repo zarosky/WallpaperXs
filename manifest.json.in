@@ -1,0 +1,15 @@
+{
+    "name": "wallpaperxs.zarosky",
+    "description": "Easily change the background of your screen with WallpaperXs (fork of Custom Phablet Tools)",
+    "architecture": "@CLICK_ARCH@",
+    "title": "WallpaperXs",
+    "hooks": {
+        "wallpaperxs": {
+            "apparmor": "wallpaperxs.apparmor",
+            "desktop":  "wallpaperxs.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "zaro <ale@ale.ar>",
+    "framework" : "ubuntu-sdk-16.04"
+}

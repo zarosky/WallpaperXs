@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wallpaperxs.zarosky package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wallpaperxs.zarosky\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-10 23:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/views.qml:30 ../qml/favorites.qml:28 ../qml/Main.qml:98
+#: ../qml/Wallpaper.qml:48 ../qml/popular.qml:30 ../qml/rated.qml:30
+msgid "Search"
+msgstr ""
+
+#: ../qml/views.qml:35 ../qml/favorites.qml:33 ../qml/Main.qml:103
+#: ../qml/Wallpaper.qml:53 ../qml/popular.qml:35 ../qml/rated.qml:35
+msgid "Close"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:119
+msgid "Wait please"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:133 ../qml/WallpaperView.qml:142
+msgid "Apply Wallpaper"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:134
+msgid "Do you want to apply the wallpaper now?"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:137
+msgid "Cancel"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:172
+msgid "by"
+msgstr ""
+
+#: ../qml/WallpaperView.qml:177
+msgid "categories"
+msgstr ""
+
+#: ../qml/Main.qml:66
+msgid "Wallpapers"
+msgstr ""
+
+#: ../qml/Main.qml:129
+msgid "Newest"
+msgstr ""
+
+#: ../qml/Main.qml:182
+msgid "Random"
+msgstr ""
+
+#: ../qml/About.qml:10
+msgid "About"
+msgstr ""
+
+#: wallpaperxs.desktop.in.h:1
+msgid "WallpaperXs"
+msgstr ""
